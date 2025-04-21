@@ -8,7 +8,7 @@ I've learned Fullstack Development for 2 years, focusing on frontend and backend
 
 * 🌍  I'm based in Jakarta
 * ✉️  You can contact me at [rizki.anindhita@binus.ac.id](mailto:rizki.anindhita@binus.ac.id)
-* 🧠  I'm learning Rust
+* 🧠  I'm learning Rust and IoT
 * ⚡  I love coding, pingpong, and design
 
 ### Skills
