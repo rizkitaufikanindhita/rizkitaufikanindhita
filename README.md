@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-I've learned Fullstack Development for 2 years, focusing on frontend and backend technologies for web application development.
+I've learned Fullstack Development for 2 years, focusing on end-to-end solutions involving frontend, backend, IoT connectivity, embedded systems, and AI on edge devices — enabling smart, secure, and efficient data-driven applications.
 
 * 🌍  I'm based in Jakarta
 * ✉️  You can contact me at [rizki.anindhita@binus.ac.id](mailto:rizki.anindhita@binus.ac.id)
