@@ -8,7 +8,6 @@ I've learned Fullstack Development for 2 years, focusing on end-to-end solutions
 
 * 🌍  I'm based in Jakarta
 * ✉️  You can contact me at [rizki.anindhita@binus.ac.id](mailto:rizki.anindhita@binus.ac.id)
-* 🧠  I'm learning IoT, MicroController, Embedded Systems
 * ⚡  I love coding, pingpong, and design
 
 ### Skills
